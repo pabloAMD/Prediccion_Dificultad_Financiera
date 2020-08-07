@@ -6,7 +6,7 @@ en base al tiempo de situaciones de empresas con el fin de predecir una dificult
 un modelo de soporte de máquinas vectoriales(SVM) que obtienen 0.9660 y 0.9630 aplicando la medida de calidad de accuracy.
 
 El cuaderno a sido desarrollado en Google Colaboratory que es un entorno gratuito de Jupyter Notebook que no requiere 
-configuración y que se ejecuta completamente en la nube de forma gratuita y proporciona flujo de trabajo.
+configuración y que se ejecuta completamente en la nube de forma gratuita y proporciona el siguiente flujo de trabajo:
 
 - ProyectoFinal: carga y reducción de dimensionalidad mediante el algoritmo de componentes principales de dataset [1], creacion de un modelo de red neuronal y modelos SVM, 
 para realizar los respectivos análisis y comparaciones.
